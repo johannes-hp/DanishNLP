@@ -1,0 +1,6 @@
+Filnavn: kejseren.txt
+Lixtal: 51.78
+
+Filnavn: alice.txt
+Lixtal: 36.92
+
